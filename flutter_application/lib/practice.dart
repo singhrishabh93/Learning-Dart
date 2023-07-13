@@ -5,4 +5,8 @@ void main() {
   stdout.write('Enter Your name: ');
   var name = stdin.readLineSync();
   print("Welcome, $name");
+
+  var rishabh = new Human(); //Creating a class Object
 }
+
+class Human {}
