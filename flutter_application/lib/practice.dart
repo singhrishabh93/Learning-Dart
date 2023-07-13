@@ -9,4 +9,6 @@ void main() {
   var rishabh = new Human(); //Creating a class Object
 }
 
-class Human {}
+class Human {
+  
+}
